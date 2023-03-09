@@ -28,3 +28,5 @@ task 10 10-back
 task 11 11-lists
  script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script
 task 12 12-file_type
+Create a symbolic link to /bin/ls, named __ls__. The symbolic link should be created in the current working directory
+task 13 We are symbols, and inhabit symbols
