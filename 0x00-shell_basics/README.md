@@ -34,3 +34,7 @@ Create a script that copies all the HTML files from the current working director
 
 You can consider that all HTML files have the extension .html
 task 14 Copy HTML files
+Create a script that moves all files beginning with an uppercase letter to the directory /tmp/u.
+
+You can assume that the directory /tmp/u will exist when we will run your script
+task 15 Let’s move
