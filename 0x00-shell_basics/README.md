@@ -16,3 +16,5 @@ And hidden files (starting with .)
 task 5  I love numbers
 Create a script that creates a directory named my_first_directory in the /tmp/ directory.
 task 6 Welcome
+Move the file betty from /tmp/ to /tmp/my_first_directory
+task 7 Betty in my first directory
