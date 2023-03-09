@@ -22,5 +22,5 @@ Delete the file betty
 task 8 Bye bye Betty
 Delete the directory my_first_directory that is in the /tmp directory
 task 9 Bye bye My first directory
-Write a script that changes the working directory to the previous one
+script that changes the working directory to the previous one
 task 10 10-back
