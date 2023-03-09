@@ -38,3 +38,5 @@ Create a script that moves all files beginning with an uppercase letter to the d
 
 You can assume that the directory /tmp/u will exist when we will run your script
 task 15 Let’s move
+Create a script that deletes all files in the current working directory that end with the character ~
+task 16 Clean Emacs
