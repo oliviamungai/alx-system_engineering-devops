@@ -30,3 +30,7 @@ task 11 11-lists
 task 12 12-file_type
 Create a symbolic link to /bin/ls, named __ls__. The symbolic link should be created in the current working directory
 task 13 We are symbols, and inhabit symbols
+Create a script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
+
+You can consider that all HTML files have the extension .html
+task 14 Copy HTML files
