@@ -20,3 +20,5 @@ Move the file betty from /tmp/ to /tmp/my_first_directory
 task 7 Betty in my first directory
 Delete the file betty
 task 8 Bye bye Betty
+Delete the directory my_first_directory that is in the /tmp directory
+task 9 Bye bye My first directory
