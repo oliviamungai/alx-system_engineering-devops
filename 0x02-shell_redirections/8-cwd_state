@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l > ls_cd_content
+ls -al > ls_cd_content
