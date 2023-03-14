@@ -1,1 +1,1 @@
-alias project
+variable expansion
