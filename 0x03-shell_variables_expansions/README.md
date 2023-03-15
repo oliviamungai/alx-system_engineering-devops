@@ -1,1 +1,1 @@
-Shell init files
+shell project
